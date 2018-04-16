@@ -16,7 +16,7 @@ Note: computation on cpu can be slow.
 
 
 ## DOWNLOAD DATA
-Download the data input [here](https://www.dropbox.com/s/sx1t6a70mq2wvie/data.zip?dl=0)
+Download the data input [here](https://www.dropbox.com/s/e7rbycfvkanq6k6/data.zip?dl=0)
 Unpack the folder data/ in the project folder (same level as CAFM.py).
 data/ can be used either to replicate the experiments in the paper, or to discover the input data format for new inputs.
 

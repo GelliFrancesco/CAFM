@@ -1,6 +1,6 @@
 # CAFM
 
-Code for Context Aware Factorization Machine (CAFM), as described in ACM MM17 paper: _How Personality Affects our Likes: Towards a Better Understanding of Actionable Images_
+Code for Context Aware Factorization Machine (CAFM), as described in ACM MM17 paper: [_How Personality Affects our Likes: Towards a Better Understanding of Actionable Images_ ](https://dl.acm.org/citation.cfm?doid=3123266.3127909)
 
 CAFM can run with any of:
 * rating information and context features (as in [this paper](https://dl.acm.org/citation.cfm?id=2964291)) - sparse
